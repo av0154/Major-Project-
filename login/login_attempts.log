@@ -1,0 +1,75 @@
+[2025-04-17 23:26:07] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-17 23:26:14] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-17 23:28:53] IP: 127.0.0.1, Username: ' OR 1=1 --, SQLi Suspected: True
+[2025-04-17 23:29:49] IP: 127.0.0.1, Username: admin' --, SQLi Suspected: True
+[2025-04-17 23:30:03] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-17 23:38:30] IP: 127.0.0.1, Username: ' OR '1'='1' --, SQLi Suspected: True
+[2025-04-17 23:38:31] IP: 127.0.0.1, Username: ' OR 1=1 --, SQLi Suspected: True
+[2025-04-17 23:38:32] IP: 127.0.0.1, Username: ' UNION SELECT null, null --, SQLi Suspected: True
+[2025-04-17 23:38:33] IP: 127.0.0.1, Username: '; DROP TABLE users --, SQLi Suspected: True
+[2025-04-17 23:38:34] IP: 127.0.0.1, Username: ' OR 'x'='x' --, SQLi Suspected: True
+[2025-04-17 23:38:35] IP: 127.0.0.1, Username: admin' --, SQLi Suspected: True
+[2025-04-17 23:38:36] IP: 127.0.0.1, Username: ' OR 1=1#, SQLi Suspected: True
+[2025-04-17 23:42:17] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-17 23:44:39] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-17 23:45:46] IP: 127.0.0.1, Username: invalid_user, SQLi Suspected: False
+[2025-04-17 23:45:46] IP: 127.0.0.1, Username: admin, SQLi Suspected: False
+[2025-04-17 23:45:46] IP: 127.0.0.1, Username: guest, SQLi Suspected: False
+[2025-04-17 23:45:46] IP: 127.0.0.1, Username: ' OR '1'='1, SQLi Suspected: True
+[2025-04-17 23:50:12] IP: 127.0.0.1, Username: ' OR '1'='1' --, SQLi Suspected: True
+[2025-04-17 23:50:13] IP: 127.0.0.1, Username: ' OR 1=1 --, SQLi Suspected: True
+[2025-04-17 23:50:14] IP: 127.0.0.1, Username: ' UNION SELECT null, null --, SQLi Suspected: True
+[2025-04-17 23:50:15] IP: 127.0.0.1, Username: '; DROP TABLE users --, SQLi Suspected: True
+[2025-04-17 23:50:16] IP: 127.0.0.1, Username: ' OR 'x'='x' --, SQLi Suspected: True
+[2025-04-17 23:50:17] IP: 127.0.0.1, Username: admin' --, SQLi Suspected: True
+[2025-04-17 23:50:18] IP: 127.0.0.1, Username: ' OR 1=1#, SQLi Suspected: True
+[2025-04-17 23:50:52] IP: 127.0.0.1, Username: invalid_user, SQLi Suspected: False
+[2025-04-17 23:50:53] IP: 127.0.0.1, Username: admin, SQLi Suspected: False
+[2025-04-17 23:50:53] IP: 127.0.0.1, Username: guest, SQLi Suspected: False
+[2025-04-17 23:50:53] IP: 127.0.0.1, Username: ' OR '1'='1, SQLi Suspected: True
+[2025-04-18 00:37:38] IP: 127.0.0.1, Username: ' OR '1'='1' --, SQLi Suspected: True
+[2025-04-18 00:37:39] IP: 127.0.0.1, Username: ' OR 1=1 --, SQLi Suspected: True
+[2025-04-18 00:37:40] IP: 127.0.0.1, Username: ' UNION SELECT null, null --, SQLi Suspected: True
+[2025-04-18 00:37:41] IP: 127.0.0.1, Username: '; DROP TABLE users --, SQLi Suspected: True
+[2025-04-18 00:37:42] IP: 127.0.0.1, Username: ' OR 'x'='x' --, SQLi Suspected: True
+[2025-04-18 00:37:43] IP: 127.0.0.1, Username: admin' --, SQLi Suspected: True
+[2025-04-18 00:37:44] IP: 127.0.0.1, Username: ' OR 1=1#, SQLi Suspected: True
+[2025-04-18 00:38:19] IP: 127.0.0.1, Username: invalid_user, SQLi Suspected: False
+[2025-04-18 00:38:19] IP: 127.0.0.1, Username: admin, SQLi Suspected: False
+[2025-04-18 00:38:19] IP: 127.0.0.1, Username: guest, SQLi Suspected: False
+[2025-04-18 00:38:19] IP: 127.0.0.1, Username: ' OR '1'='1, SQLi Suspected: True
+[2025-04-18 00:38:45] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-18 04:59:13] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-19 04:30:11] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-19 04:34:58] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-19 04:39:46] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 12:43:55] IP: 127.0.0.1, Username: john, SQLi Suspected: False
+[2025-04-20 12:44:09] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 19:47:29] IP: 192.168.0.103, Username: invalid_user, SQLi Suspected: False
+[2025-04-20 19:47:29] IP: 192.168.0.103, Username: admin, SQLi Suspected: False
+[2025-04-20 19:47:29] IP: 192.168.0.103, Username: guest, SQLi Suspected: False
+[2025-04-20 19:47:29] IP: 192.168.0.103, Username: ' OR '1'='1, SQLi Suspected: True
+[2025-04-20 19:51:29] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 19:58:14] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 20:03:29] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 20:10:03] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 20:18:05] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 20:33:32] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-20 21:18:06] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 07:50:55] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 08:01:08] IP: 192.168.0.103, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 09:03:28] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 09:39:09] IP: 10.9.218.88, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 09:40:05] IP: 10.9.218.88, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 10:14:16] IP: 10.9.218.88, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 10:45:23] IP: 10.9.218.88, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 11:02:32] IP: 192.168.230.223, Username: invalid_user, SQLi Suspected: False
+[2025-04-21 11:02:32] IP: 192.168.230.223, Username: admin, SQLi Suspected: False
+[2025-04-21 11:02:32] IP: 192.168.230.223, Username: guest, SQLi Suspected: False
+[2025-04-21 11:02:32] IP: 192.168.230.223, Username: ' OR '1'='1, SQLi Suspected: True
+[2025-04-21 11:02:59] IP: 192.168.230.223, Username: ' OR '1'='1' --, SQLi Suspected: True
+[2025-04-21 11:03:00] IP: 192.168.230.223, Username: ' OR 1=1 --, SQLi Suspected: True
+[2025-04-21 11:03:01] IP: 192.168.230.223, Username: ' UNION SELECT null, null --, SQLi Suspected: True
+[2025-04-21 11:09:45] IP: 192.168.230.223, Username: Abhiram, SQLi Suspected: False
+[2025-04-21 11:13:33] IP: 192.168.230.223, Username: Abhiram, SQLi Suspected: False
+[2025-05-04 12:14:29] IP: 127.0.0.1, Username: Abhiram, SQLi Suspected: False

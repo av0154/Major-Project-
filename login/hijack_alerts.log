@@ -1,0 +1,6 @@
+[2025-04-20 19:51:13] [ALERT] Possible session hijack: User Abhiram, Expected IP: None, Got: 127.0.0.1, UA mismatch: True
+[2025-04-21 09:03:12] [HIJACK DETECTED] User: Abhiram
+Expected IP: 192.168.0.103, Actual IP: 127.0.0.1
+Expected UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36, Actual UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Timestamp: 2025-04-21 09:03:12
+[2025-04-21 09:03:12] [FORCE LOGOUT] User Abhiram was logged out. Reason: Session hijack detected

@@ -1,0 +1,51 @@
+[2025-04-17 23:50:12] Failed login attempt. IP: 127.0.0.1, Username: ' OR '1'='1' --
+[2025-04-17 23:50:13] Failed login attempt. IP: 127.0.0.1, Username: ' OR 1=1 --
+[2025-04-17 23:50:14] Failed login attempt. IP: 127.0.0.1, Username: ' UNION SELECT null, null --
+[2025-04-17 23:50:15] Failed login attempt. IP: 127.0.0.1, Username: '; DROP TABLE users --
+[2025-04-17 23:50:16] Failed login attempt. IP: 127.0.0.1, Username: ' OR 'x'='x' --
+[2025-04-17 23:50:17] Failed login attempt. IP: 127.0.0.1, Username: admin' --
+[2025-04-17 23:50:18] Failed login attempt. IP: 127.0.0.1, Username: ' OR 1=1#
+[2025-04-17 23:50:52] Failed login attempt. IP: 127.0.0.1, Username: invalid_user
+[2025-04-17 23:50:53] Failed login attempt. IP: 127.0.0.1, Username: admin
+[2025-04-17 23:50:53] Failed login attempt. IP: 127.0.0.1, Username: guest
+[2025-04-17 23:50:53] Failed login attempt. IP: 127.0.0.1, Username: ' OR '1'='1
+[2025-04-18 00:37:38] Failed login attempt. IP: 127.0.0.1, Username: ' OR '1'='1' --
+[2025-04-18 00:37:39] Failed login attempt. IP: 127.0.0.1, Username: ' OR 1=1 --
+[2025-04-18 00:37:40] Failed login attempt. IP: 127.0.0.1, Username: ' UNION SELECT null, null --
+[2025-04-18 00:37:41] Failed login attempt. IP: 127.0.0.1, Username: '; DROP TABLE users --
+[2025-04-18 00:37:42] Failed login attempt. IP: 127.0.0.1, Username: ' OR 'x'='x' --
+[2025-04-18 00:37:43] Failed login attempt. IP: 127.0.0.1, Username: admin' --
+[2025-04-18 00:37:44] Failed login attempt. IP: 127.0.0.1, Username: ' OR 1=1#
+[2025-04-18 00:38:19] Failed login attempt. IP: 127.0.0.1, Username: invalid_user
+[2025-04-18 00:38:19] Failed login attempt. IP: 127.0.0.1, Username: admin
+[2025-04-18 00:38:19] Failed login attempt. IP: 127.0.0.1, Username: guest
+[2025-04-18 00:38:19] Failed login attempt. IP: 127.0.0.1, Username: ' OR '1'='1
+[2025-04-20 12:43:55] Failed login attempt. IP: 127.0.0.1, Username: john
+[2025-04-20 19:47:29] Failed login attempt. IP: 192.168.0.103, Username: invalid_user
+[2025-04-20 19:47:29] Failed login attempt. IP: 192.168.0.103, Username: admin
+[2025-04-20 19:47:29] Failed login attempt. IP: 192.168.0.103, Username: guest
+[2025-04-20 19:47:29] Failed login attempt. IP: 192.168.0.103, Username: ' OR '1'='1
+[2025-04-20 19:58:52] Unauthorized access to /protected. IP: 192.168.0.103
+[2025-04-20 20:04:26] Unauthorized access to /protected. IP: 192.168.0.103
+[2025-04-20 20:10:08] [ATTACK] Anonymous access attempt to /protected from IP: 192.168.0.103, UA: python-requests/2.32.3
+[2025-04-20 20:10:17] [ATTACK] Anonymous access attempt to /protected from IP: 192.168.0.103, UA: python-requests/2.32.3
+[2025-04-20 20:13:12] Unauthorized access to /protected. IP: 192.168.0.103
+[2025-04-20 20:13:15] Unauthorized access to /protected. IP: 192.168.0.103
+[2025-04-20 20:15:47] Unauthorized access to /protected. IP: 192.168.0.103
+[2025-04-20 20:15:49] Unauthorized access to /protected. IP: 192.168.0.103
+[2025-04-20 20:18:01] Access to /protected without login. IP: 127.0.0.1
+[2025-04-20 20:18:10] Access to /protected without login. IP: 192.168.0.103
+[2025-04-20 20:18:13] Access to /protected without login. IP: 192.168.0.103
+[2025-04-20 20:21:34] [UNAUTH ACCESS] Attempt to access /protected without login. IP: 192.168.0.103, UA: python-requests/2.32.3
+[2025-04-20 20:21:35] [UNAUTH ACCESS] Attempt to access /protected without login. IP: 192.168.0.103, UA: python-requests/2.32.3
+[2025-04-21 09:39:55] [UNAUTH ACCESS] Attempt to access /protected without login. IP: 10.9.218.88, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-04-21 10:45:14] [UNAUTH ACCESS] Attempt to access /protected without login. IP: 10.9.218.88, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-04-21 11:02:32] Failed login. IP: 192.168.230.223, Username: invalid_user
+[2025-04-21 11:02:32] Failed login. IP: 192.168.230.223, Username: admin
+[2025-04-21 11:02:32] Failed login. IP: 192.168.230.223, Username: guest
+[2025-04-21 11:02:32] Failed login. IP: 192.168.230.223, Username: ' OR '1'='1
+[2025-04-21 11:02:44] [UNAUTH ACCESS] Attempt to access /protected without login. IP: 192.168.230.223, UA: python-requests/2.32.3
+[2025-04-21 11:02:52] [UNAUTH ACCESS] Attempt to access /protected without login. IP: 192.168.230.223, UA: python-requests/2.32.3
+[2025-04-21 11:02:59] Failed login. IP: 192.168.230.223, Username: ' OR '1'='1' --
+[2025-04-21 11:03:00] Failed login. IP: 192.168.230.223, Username: ' OR 1=1 --
+[2025-04-21 11:03:01] Failed login. IP: 192.168.230.223, Username: ' UNION SELECT null, null --

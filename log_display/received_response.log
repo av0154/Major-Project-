@@ -1,0 +1,7 @@
+[2025-04-19 05:54:31] Response from auth server: {'message': 'Invalid authentication message', 'status': 'failed'}
+[2025-04-19 06:00:27] Response from auth server: {'details': "name 'key' is not defined", 'message': 'Decryption failed', 'status': 'error'}
+[2025-04-19 06:01:31] Response from auth server: {'details': "name 'SECRET_AUTH_KEY' is not defined", 'message': 'Decryption failed', 'status': 'error'}
+[2025-04-19 06:04:56] Response from auth server: {'details': "name 'SECRET_AUTH_KEY' is not defined", 'message': 'Decryption failed', 'status': 'error'}
+[2025-04-19 06:06:34] Response from auth server: {'details': "name 'SECRET_AUTH_KEY' is not defined", 'message': 'Decryption failed', 'status': 'error'}
+[2025-04-19 06:12:20] Response from auth server: {'details': 'Expecting value: line 1 column 1 (char 0)', 'message': 'Decryption failed', 'status': 'error'}
+[2025-04-19 06:17:50] Response from auth server: {'key': 'SOME_SECRET_KEY', 'message': 'Authentication successful', 'status': 'success'}

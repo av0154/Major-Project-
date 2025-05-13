@@ -1,0 +1,11 @@
+[2025-04-17 23:50:12] Failed login attempt. IP: 127.0.0.1, Username: ' OR '1'='1' --
+[2025-04-17 23:50:13] Failed login attempt. IP: 127.0.0.1, Username: ' OR 1=1 --
+[2025-04-17 23:50:14] Failed login attempt. IP: 127.0.0.1, Username: ' UNION SELECT null, null --
+[2025-04-17 23:50:15] Failed login attempt. IP: 127.0.0.1, Username: '; DROP TABLE users --
+[2025-04-17 23:50:16] Failed login attempt. IP: 127.0.0.1, Username: ' OR 'x'='x' --
+[2025-04-17 23:50:17] Failed login attempt. IP: 127.0.0.1, Username: admin' --
+[2025-04-17 23:50:18] Failed login attempt. IP: 127.0.0.1, Username: ' OR 1=1#
+[2025-04-17 23:50:52] Failed login attempt. IP: 127.0.0.1, Username: invalid_user
+[2025-04-17 23:50:53] Failed login attempt. IP: 127.0.0.1, Username: admin
+[2025-04-17 23:50:53] Failed login attempt. IP: 127.0.0.1, Username: guest
+[2025-04-17 23:50:53] Failed login attempt. IP: 127.0.0.1, Username: ' OR '1'='1

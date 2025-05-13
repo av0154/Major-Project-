@@ -1,0 +1,40 @@
+[2025-04-19 04:42:13] Status: error, Message: Decryption failed: Data must be aligned to block boundary in ECB mode
+[2025-04-19 04:45:20] Status: error, Message: Decryption failed: Decryption failed: Data must be aligned to block boundary in ECB mode
+[2025-04-19 04:50:15] Status: error, Message: Decryption failed: Incorrect AES key length (17 bytes)
+[2025-04-19 04:51:22] Status: error, Message: Decryption failed: Incorrect AES key length (17 bytes)
+[2025-04-19 04:53:03] Status: error, Message: Decryption failed: Incorrect AES key length (17 bytes)
+[2025-04-19 04:53:26] Status: error, Message: Decryption failed: Incorrect AES key length (17 bytes)
+[2025-04-19 04:54:43] Status: error, Message: Decryption failed: name 'KEY' is not defined
+[2025-04-19 04:55:48] Status: error, Message: Decryption failed: name 'KEY' is not defined
+[2025-04-19 04:56:50] Status: error, Message: Decryption failed: name 'KEY' is not defined
+[2025-04-19 04:58:59] Status: error, Message: Decryption failed: Incorrect AES key length (17 bytes)
+[2025-04-19 05:00:09] Status: error, Message: Decryption failed: Data must be aligned to block boundary in ECB mode
+[2025-04-19 05:00:34] Status: error, Message: Decryption failed: Data must be aligned to block boundary in ECB mode
+[2025-04-19 05:01:43] Status: error, Message: Decryption failed: 'utf-8' codec can't decode byte 0xe8 in position 0: invalid continuation byte
+[2025-04-19 05:02:29] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 05:23:47] Status: error, Message: Decryption failed: 'utf-8' codec can't decode byte 0x8f in position 2: invalid start byte
+[2025-04-19 05:23:55] Status: error, Message: Decryption failed: Data must be aligned to block boundary in ECB mode
+[2025-04-19 05:24:22] Status: error, Message: Decryption failed: 'utf-8' codec can't decode byte 0x8f in position 2: invalid start byte
+[2025-04-19 05:27:23] Status: error, Message: Decryption failed: 'utf-8' codec can't decode byte 0x90 in position 0: invalid start byte
+[2025-04-19 05:30:06] Status: error, Message: Decryption failed: ord() expected string of length 1, but int found
+[2025-04-19 05:31:07] Status: failed, Message: Failed authentication: 
+[2025-04-19 05:32:15] Status: failed, Message: Failed authentication: Invalid authentication message
+[2025-04-19 05:34:57] Status: failed, Message: Failed authentication: Invalid authentication message
+[2025-04-19 05:39:25] Status: error, Message: Decryption failed: ord() expected string of length 1, but int found
+[2025-04-19 05:41:13] Status: error, Message: Decryption failed: ord() expected string of length 1, but int found
+[2025-04-19 05:42:57] Status: failed, Message: Failed authentication: Invalid authentication message
+[2025-04-19 05:54:31] Status: failed, Message: Failed authentication: Invalid authentication message
+[2025-04-19 06:00:27] Status: error, Message: Decryption failed: name 'key' is not defined
+[2025-04-19 06:01:31] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 06:01:31] Status: error, Message: Decryption failed: name 'SECRET_AUTH_KEY' is not defined
+[2025-04-19 06:04:56] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 06:04:56] Status: error, Message: Decryption failed: name 'SECRET_AUTH_KEY' is not defined
+[2025-04-19 06:06:34] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 06:06:34] Status: error, Message: Decryption failed: name 'SECRET_AUTH_KEY' is not defined
+[2025-04-19 06:12:20] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 06:12:20] Status: error, Message: Decryption failed: Expecting value: line 1 column 1 (char 0)
+[2025-04-19 06:14:37] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 06:14:37] Status: error, Message: Decryption failed: Expecting value: line 1 column 1 (char 0)
+[2025-04-19 06:17:50] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-19 06:18:28] Status: success, Message: Authenticated message: AUTH_KASHYAPA
+[2025-04-21 07:24:00] [MITM] [MITM SUSPECTED] Decryption failed from 192.168.0.103 (Sender: log_displayer). Payload: XES-Encrypted-Payload | Error: Incorrect padding
